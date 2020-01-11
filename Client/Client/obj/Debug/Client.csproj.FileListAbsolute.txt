@@ -1,0 +1,14 @@
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\bin\Debug\Client.exe.config
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\bin\Debug\Client.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\bin\Debug\Client.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\obj\Debug\Client.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Client\Client\obj\Debug\Client.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\bin\Debug\Client.exe.config
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\bin\Debug\Client.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\bin\Debug\Client.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\obj\Debug\Client.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Client\Client\obj\Debug\Client.pdb

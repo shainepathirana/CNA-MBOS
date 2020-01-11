@@ -1,0 +1,14 @@
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\bin\Debug\Server.exe.config
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\bin\Debug\Server.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\bin\Debug\Server.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\obj\Debug\Server.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\Assignment\Server\Server\obj\Debug\Server.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\bin\Debug\Server.exe.config
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\bin\Debug\Server.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\bin\Debug\Server.pdb
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\obj\Debug\Server.exe
+C:\Users\shaine pathirana\Desktop\CNA\Assignment\CNA Assignment\Server\Server\obj\Debug\Server.pdb
